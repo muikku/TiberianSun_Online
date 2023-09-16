@@ -1,0 +1,7 @@
+# Ignore all files
+*
+
+# But do not ignore these files
+!.gitignore
+!rules.ini
+!firestrm.ini
